@@ -1,9 +1,9 @@
 <?php
 
-$variables = 'change is working';
-$something = 'Guy';
-$something2 = 'Guy2';
+$variables = 'something';
+$something = 'Adi';
+$something2 = 'Adi2';
 
 
-$pd = 'pd';
+$pd = 'porco dio';
 $leo = 'CLI King';
