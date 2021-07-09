@@ -1,3 +1,5 @@
 <?php
 
-$variables = 'something';
+
+
+$pd = 'porco_dio';
