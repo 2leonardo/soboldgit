@@ -1,3 +1,3 @@
 <?php
 
-$variables = 'something';
+$leo = 'CLI King';
