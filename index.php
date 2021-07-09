@@ -1,6 +1,6 @@
 <?php
 
-$variables = '3';
+$variables = 'sdasd';
 $something = 'Adi';
 $something2 = 'Adi2';
 
